@@ -1,0 +1,16 @@
+{
+  "name": "slidercomp",
+  "version": "1.0.0",
+  "description": "Simple image slider built using Vue.js (version 2.5+) ",
+  "main": "SliderComp.vue",
+  "repository": "git+https://github.com/deandevl/SliderComp.git",
+  "keywords": [
+    "Vue.js",
+    "SliderComp"
+  ],
+  "author": "'Rick <deanr3@bardstown.com>",
+  "license": "MIT",
+  "dependencies": {
+    "vue": "^2.5.9"
+  }
+}
